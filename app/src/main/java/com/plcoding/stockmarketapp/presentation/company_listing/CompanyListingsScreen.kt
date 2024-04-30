@@ -63,7 +63,6 @@ fun CompanyListingsScreen(
                     if (i < state.companies.size) {
                         Divider(modifier = Modifier.padding(horizontal = 16.dp))
                     }
-
                 }
             }
         }
